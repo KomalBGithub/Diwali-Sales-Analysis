@@ -13,7 +13,8 @@ This project involves analyzing Diwali festival sales data to uncover purchasing
 
 ---
 
-## 📁 <a "href=https://github.com/KomalBGithub/Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Data.csv">Dataset</a> 
+## 📁 Dataset Used
+<a href="https://github.com/KomalBGithub/Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Data.csv">Dataset</a> 
 
 
 ---
